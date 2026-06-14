@@ -43,7 +43,7 @@ The pipeline consists of a linear sequence of nodes:
 6. **Google Gemini (Trending):** Identifies Top 3 trending technologies from the day's news.
 7. **Discord Webhook:** Delivers the finalized daily report.
 
-![n8n Workflow](n8n-workflow.png)
+![n8n Workflow](n8n.workflow.png)
 
 ---
 
@@ -51,7 +51,7 @@ The pipeline consists of a linear sequence of nodes:
 
 The final output is a clean, structured daily tech report delivered directly to Discord, including article summaries by category and a trending technologies section.
 
-![Discord Preview](discord-preview.png)
+![Discord Preview](Discordserver.png)
 
 ---
 
